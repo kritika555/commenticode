@@ -18,7 +18,7 @@
       <div class="card-body">
         <div>
           <p class="lead" style="font-size:1.2em !important;">The 
-          <strong>Commenticode</strong> platform provides collaboration tools to developers, enabling them to work together on open
+          <strong>Commenticodeeeee</strong> platform provides collaboration tools to developers, enabling them to work together on open
           source software. The collaboration tools are set up in a way that, by providing incentives, will facilitate the
           development of decentralised organisations.
           <br />
