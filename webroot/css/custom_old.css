@@ -1,0 +1,69 @@
+.sidebar .nav i, .off-canvas-sidebar .nav i {
+    width: 100%;
+}
+
+.nav > li {
+    text-align: center;
+}
+
+.sidebar .sidebar-wrapper {
+    width: 135px;
+    background: url(../img/background/menu_back.jpg);
+}
+
+.register-form label {
+    width: 100%;
+}
+
+.error-message li {
+    list-style-type: none;
+}
+
+.form-setting textarea
+{
+    width:100%;
+    padding-left: 45px;
+    padding-right: 45px;
+    border: 1px solid #ececec;
+    height: 120px;
+}
+
+.form-setting textarea, .txtarea
+{
+    width:100%;
+    padding: 10px;
+    border: 1px solid #ececec;
+    height: 120px;
+}
+
+.form-setting label
+{
+    margin: 20px 0 5px 0;
+}
+
+.form-setting label.error, .form-setting div.error-message
+{
+    margin: 0px 0 5px 0;
+    color: #FF0000;
+}
+
+.tab-list li{
+    padding: 16px 70px;
+}
+
+
+.form-setting input[type='file']
+{
+    border:0;
+    margin: 20px 0 5px 0;
+    padding: 0;
+}
+
+.color-red
+{
+    color:red;
+}
+.color-yellow
+{
+    color:yellow;
+}

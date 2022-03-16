@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'museo_sans300';
+    src: url('../fonts/museosans300/MuseoSans_300-webfont.eot');
+    src: url('../fonts/museosans300/MuseoSans_300-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/museosans300/MuseoSans_300-webfont.woff2') format('woff2'),
+         url('../fonts/museosans300/MuseoSans_300-webfont.woff') format('woff'),
+         url('../fonts/museosans300/MuseoSans_300-webfont.ttf') format('truetype'),
+         url('../fonts/museosans300/MuseoSans_300-webfont.svg#museo_sans300') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'museo_sans500';
+    src: url('../fonts/museosans500/MuseoSans_500-webfont.eot');
+    src: url('../fonts/museosans500/MuseoSans_500-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/museosans500/MuseoSans_500-webfont.woff2') format('woff2'),
+         url('../fonts/museosans500/MuseoSans_500-webfont.woff') format('woff'),
+         url('../fonts/museosans500/MuseoSans_500-webfont.ttf') format('truetype'),
+         url('../fonts/museosans500/MuseoSans_500-webfont.svg#museo_sans500') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'museo_sans900';
+    src: url('../fonts/museosans900/MuseoSans_900-webfont.eot');
+    src: url('../fonts/museosans900/MuseoSans_900-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/museosans900/MuseoSans_900-webfont.woff2') format('woff2'),
+         url('../fonts/museosans900/MuseoSans_900-webfont.woff') format('woff'),
+         url('../fonts/museosans900/MuseoSans_900-webfont.ttf') format('truetype'),
+         url('../fonts/museosans900/MuseoSans_900-webfont.svg#museo_sans900') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'museo_sans_rounded700';
+    src: url('../fonts/museosansrounded700/MuseoSansRounded-700-webfont.eot');
+    src: url('../fonts/museosansrounded700/MuseoSansRounded-700-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/museosansrounded700/MuseoSansRounded-700-webfont.woff2') format('woff2'),
+         url('../fonts/museosansrounded700/MuseoSansRounded-700-webfont.woff') format('woff'),
+         url('../fonts/museosansrounded700/MuseoSansRounded-700-webfont.ttf') format('truetype'),
+         url('../fonts/museosansrounded700/MuseoSansRounded-700-webfont.svg#museo_sans_rounded700') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

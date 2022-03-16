@@ -1,0 +1,145 @@
+.sidebar .nav i, .off-canvas-sidebar .nav i {
+    width: 100%;
+}
+
+.nav > li {
+    text-align: center;
+}
+
+.sidebar .sidebar-wrapper {
+    width: 135px;
+    background-color: #005a9e !important;
+}
+
+.register-form label {
+    width: 100%;
+}
+
+.error-message li {
+    list-style-type: none;
+}
+
+.form-setting textarea
+{
+    width:100%;
+    padding-left: 45px;
+    padding-right: 45px;
+    border: 1px solid #ececec;
+    height: 120px;
+}
+
+.form-setting textarea, .txtarea
+{
+    width:100%;
+    padding: 10px;
+    border: 1px solid #ececec;
+    height: 120px;
+}
+
+.form-setting label
+{
+    margin: 20px 0 5px 0;
+}
+
+.form-setting label.error, .form-setting div.error-message
+{
+    margin: 0px 0 5px 0;
+    color: #FF0000;
+}
+
+.tab-list li{
+    padding: 16px 70px;
+}
+
+.form-setting input[type='file']
+{
+    border:0;
+    margin: 20px 0 5px 0;
+    padding: 0;
+}
+
+.color-red
+{
+    color:red;
+}
+.color-yellow
+{
+    color:yellow;
+}
+.counter.counter-lg {
+    top: -100px !important;
+}
+
+.navbar-footer  {
+	background-color:#005a9e !important;
+    color:#000000 !important;
+    width:100% !important;
+    height:auto !important;
+    padding-top:1%;
+    padding-bottom:1%;	
+}
+
+#header_bar{
+	background-color:#005a9e !important;
+    color:#000 !important;	
+}
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+#overlay {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0,0,0,0.8);
+  display: none;
+}
+
+#popupt {
+  max-width: 500px;
+  width: 50%;
+  max-height: 460px;
+  /*height: 80%;*/
+  padding: 5px;
+  position: relative;
+  background: #fff;
+  margin: 0 auto;
+   
+}
+
+#close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  color: #000;
+}
+
+
+#tooltip {
+  display: inline-block;
+  background: #ffffff;
+  color: #643045;
+  font-weight: bold;
+  padding: 3px 3px;
+  font-size: 15px;
+  border-radius: 2px;
+}
+
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+
+.modal-backdrop{	
+	z-index:0 !important;	
+}
